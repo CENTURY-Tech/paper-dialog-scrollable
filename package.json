@@ -1,0 +1,11 @@
+{
+  "name": "paper-dialog-scrollable",
+  "version": "1.1.6",
+  "dependencies": {
+    "polymer": "github:CENTURY-Tech/polymer#v1.12.1",
+    "iron-flex-layout": "github:CENTURY-Tech/iron-flex-layout#v1.3.10",
+    "paper-dialog-behavior": "github:CENTURY-Tech/paper-dialog-behavior#v1.2.10",
+    "paper-styles": "github:CENTURY-Tech/paper-styles#v1.3.2"
+  },
+  "private": true
+}
